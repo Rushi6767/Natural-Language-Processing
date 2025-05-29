@@ -1,0 +1,12 @@
+# Ignore dataset folder
+/dataset/
+
+# Or specific dataset files
+*.csv
+*.zip
+*.xlsx
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*checkpoint.ipynb
+
